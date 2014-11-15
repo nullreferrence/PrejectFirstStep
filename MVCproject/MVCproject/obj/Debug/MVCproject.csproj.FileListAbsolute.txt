@@ -1,0 +1,98 @@
+B:\BASIS\all practice\MVCproject\MVCproject\bin\MVCproject.dll
+B:\BASIS\all practice\MVCproject\MVCproject\bin\MVCproject.pdb
+B:\BASIS\all practice\MVCproject\MVCproject\bin\Antlr3.Runtime.dll
+B:\BASIS\all practice\MVCproject\MVCproject\bin\DotNetOpenAuth.AspNet.dll
+B:\BASIS\all practice\MVCproject\MVCproject\bin\DotNetOpenAuth.Core.dll
+B:\BASIS\all practice\MVCproject\MVCproject\bin\DotNetOpenAuth.OAuth.Consumer.dll
+B:\BASIS\all practice\MVCproject\MVCproject\bin\DotNetOpenAuth.OAuth.dll
+B:\BASIS\all practice\MVCproject\MVCproject\bin\DotNetOpenAuth.OpenId.dll
+B:\BASIS\all practice\MVCproject\MVCproject\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+B:\BASIS\all practice\MVCproject\MVCproject\bin\EntityFramework.dll
+B:\BASIS\all practice\MVCproject\MVCproject\bin\Microsoft.Web.Infrastructure.dll
+B:\BASIS\all practice\MVCproject\MVCproject\bin\Microsoft.Web.WebPages.OAuth.dll
+B:\BASIS\all practice\MVCproject\MVCproject\bin\Newtonsoft.Json.dll
+B:\BASIS\all practice\MVCproject\MVCproject\bin\System.Net.Http.Formatting.dll
+B:\BASIS\all practice\MVCproject\MVCproject\bin\System.Web.Helpers.dll
+B:\BASIS\all practice\MVCproject\MVCproject\bin\System.Web.Http.dll
+B:\BASIS\all practice\MVCproject\MVCproject\bin\System.Web.Http.WebHost.dll
+B:\BASIS\all practice\MVCproject\MVCproject\bin\System.Web.Mvc.dll
+B:\BASIS\all practice\MVCproject\MVCproject\bin\System.Web.Optimization.dll
+B:\BASIS\all practice\MVCproject\MVCproject\bin\System.Web.Razor.dll
+B:\BASIS\all practice\MVCproject\MVCproject\bin\System.Web.WebPages.Deployment.dll
+B:\BASIS\all practice\MVCproject\MVCproject\bin\System.Web.WebPages.dll
+B:\BASIS\all practice\MVCproject\MVCproject\bin\System.Web.WebPages.Razor.dll
+B:\BASIS\all practice\MVCproject\MVCproject\bin\WebGrease.dll
+B:\BASIS\all practice\MVCproject\MVCproject\bin\WebMatrix.Data.dll
+B:\BASIS\all practice\MVCproject\MVCproject\bin\WebMatrix.WebData.dll
+B:\BASIS\all practice\MVCproject\MVCproject\bin\EntityFramework.xml
+B:\BASIS\all practice\MVCproject\MVCproject\bin\Newtonsoft.Json.xml
+B:\BASIS\all practice\MVCproject\MVCproject\bin\System.Net.Http.Formatting.xml
+B:\BASIS\all practice\MVCproject\MVCproject\bin\System.Web.Helpers.xml
+B:\BASIS\all practice\MVCproject\MVCproject\bin\System.Web.Http.xml
+B:\BASIS\all practice\MVCproject\MVCproject\bin\System.Web.Http.WebHost.xml
+B:\BASIS\all practice\MVCproject\MVCproject\bin\System.Web.Mvc.xml
+B:\BASIS\all practice\MVCproject\MVCproject\bin\System.Web.Razor.xml
+B:\BASIS\all practice\MVCproject\MVCproject\bin\System.Web.WebPages.xml
+B:\BASIS\all practice\MVCproject\MVCproject\bin\System.Web.WebPages.Deployment.xml
+B:\BASIS\all practice\MVCproject\MVCproject\bin\System.Web.WebPages.Razor.xml
+B:\BASIS\all practice\MVCproject\MVCproject\bin\WebMatrix.Data.xml
+B:\BASIS\all practice\MVCproject\MVCproject\bin\Microsoft.Web.WebPages.OAuth.xml
+B:\BASIS\all practice\MVCproject\MVCproject\bin\WebMatrix.WebData.xml
+B:\BASIS\all practice\MVCproject\MVCproject\bin\DotNetOpenAuth.AspNet.xml
+B:\BASIS\all practice\MVCproject\MVCproject\bin\DotNetOpenAuth.Core.xml
+B:\BASIS\all practice\MVCproject\MVCproject\bin\DotNetOpenAuth.OAuth.Consumer.xml
+B:\BASIS\all practice\MVCproject\MVCproject\bin\DotNetOpenAuth.OAuth.xml
+B:\BASIS\all practice\MVCproject\MVCproject\bin\DotNetOpenAuth.OpenId.xml
+B:\BASIS\all practice\MVCproject\MVCproject\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+B:\BASIS\all practice\MVCproject\MVCproject\obj\Debug\MVCproject.csprojResolveAssemblyReference.cache
+B:\BASIS\all practice\MVCproject\MVCproject\obj\Debug\MVCproject.dll
+B:\BASIS\all practice\MVCproject\MVCproject\obj\Debug\MVCproject.pdb
+J:\MVCproject\MVCproject\bin\MVCproject.dll.config
+J:\MVCproject\MVCproject\bin\MVCproject.dll
+J:\MVCproject\MVCproject\bin\MVCproject.pdb
+J:\MVCproject\MVCproject\bin\Antlr3.Runtime.dll
+J:\MVCproject\MVCproject\bin\DotNetOpenAuth.AspNet.dll
+J:\MVCproject\MVCproject\bin\DotNetOpenAuth.Core.dll
+J:\MVCproject\MVCproject\bin\DotNetOpenAuth.OAuth.Consumer.dll
+J:\MVCproject\MVCproject\bin\DotNetOpenAuth.OAuth.dll
+J:\MVCproject\MVCproject\bin\DotNetOpenAuth.OpenId.dll
+J:\MVCproject\MVCproject\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+J:\MVCproject\MVCproject\bin\EntityFramework.dll
+J:\MVCproject\MVCproject\bin\Microsoft.Web.Infrastructure.dll
+J:\MVCproject\MVCproject\bin\Microsoft.Web.WebPages.OAuth.dll
+J:\MVCproject\MVCproject\bin\Newtonsoft.Json.dll
+J:\MVCproject\MVCproject\bin\System.Net.Http.Formatting.dll
+J:\MVCproject\MVCproject\bin\System.Web.Helpers.dll
+J:\MVCproject\MVCproject\bin\System.Web.Http.dll
+J:\MVCproject\MVCproject\bin\System.Web.Http.WebHost.dll
+J:\MVCproject\MVCproject\bin\System.Web.Mvc.dll
+J:\MVCproject\MVCproject\bin\System.Web.Optimization.dll
+J:\MVCproject\MVCproject\bin\System.Web.Razor.dll
+J:\MVCproject\MVCproject\bin\System.Web.WebPages.Deployment.dll
+J:\MVCproject\MVCproject\bin\System.Web.WebPages.dll
+J:\MVCproject\MVCproject\bin\System.Web.WebPages.Razor.dll
+J:\MVCproject\MVCproject\bin\WebGrease.dll
+J:\MVCproject\MVCproject\bin\WebMatrix.Data.dll
+J:\MVCproject\MVCproject\bin\WebMatrix.WebData.dll
+J:\MVCproject\MVCproject\bin\EntityFramework.xml
+J:\MVCproject\MVCproject\bin\Newtonsoft.Json.xml
+J:\MVCproject\MVCproject\bin\System.Net.Http.Formatting.xml
+J:\MVCproject\MVCproject\bin\System.Web.Helpers.xml
+J:\MVCproject\MVCproject\bin\System.Web.Http.xml
+J:\MVCproject\MVCproject\bin\System.Web.Http.WebHost.xml
+J:\MVCproject\MVCproject\bin\System.Web.Mvc.xml
+J:\MVCproject\MVCproject\bin\System.Web.Razor.xml
+J:\MVCproject\MVCproject\bin\System.Web.WebPages.xml
+J:\MVCproject\MVCproject\bin\System.Web.WebPages.Deployment.xml
+J:\MVCproject\MVCproject\bin\System.Web.WebPages.Razor.xml
+J:\MVCproject\MVCproject\bin\WebMatrix.Data.xml
+J:\MVCproject\MVCproject\bin\Microsoft.Web.WebPages.OAuth.xml
+J:\MVCproject\MVCproject\bin\WebMatrix.WebData.xml
+J:\MVCproject\MVCproject\bin\DotNetOpenAuth.AspNet.xml
+J:\MVCproject\MVCproject\bin\DotNetOpenAuth.Core.xml
+J:\MVCproject\MVCproject\bin\DotNetOpenAuth.OAuth.Consumer.xml
+J:\MVCproject\MVCproject\bin\DotNetOpenAuth.OAuth.xml
+J:\MVCproject\MVCproject\bin\DotNetOpenAuth.OpenId.xml
+J:\MVCproject\MVCproject\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+J:\MVCproject\MVCproject\obj\Debug\MVCproject.dll
+J:\MVCproject\MVCproject\obj\Debug\MVCproject.pdb
